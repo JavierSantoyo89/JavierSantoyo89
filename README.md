@@ -52,6 +52,7 @@
 <a href="mailto:javier.santoyo@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-javier.santoyo@yahoo.coom-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/JavierSantoyo89/count.svg)
 
 
 <!--
