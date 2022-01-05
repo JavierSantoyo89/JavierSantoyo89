@@ -39,7 +39,7 @@
 
 <a href="https://github.com/JavierSantoyo89">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavierSantoyo89&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSantoyo898&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSantoyo89&theme=buefy&layout=compact" />
 </a>
 
 <br/>
