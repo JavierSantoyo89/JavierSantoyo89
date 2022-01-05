@@ -51,7 +51,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/javiersantoyor/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/javiersantoyor/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Javier%20Santoyo%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:javier.santoyo@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-javier.santoyo@yahoo.coom-blue?style=flat-square&logo=gmail"></a>
 </p>
 
