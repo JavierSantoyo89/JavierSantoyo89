@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web solutions.
@@ -41,15 +40,21 @@
    ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-    
-<br/>
+   
+
+
+ <h3> 👨‍🎓 &nbsp;Certifications, Studies & Conferences</h3> 
+<a href="https://github.com/JavierSantoyo89/Estudios"><img alt="github" src="https://img.shields.io/badge/github-Javier%20Santoyo%20-blue?style=flat-square&logo=github"></a> [*includes pdf]
+
+</br>
+</br>
 
 <a href="https://github.com/JavierSantoyo89">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavierSantoyo89&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierSantoyo89&theme=buefy&layout=compact" />
 </a>
 
-<br/>
+</br>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -59,7 +64,9 @@
 <a href="mailto:javier.santoyo@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-javier.santoyo@yahoo.coom-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/JavierSantoyo89/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/JavierSantoyo89/count.svg) -->
+
+![](https://komarev.com/ghpvc/?username=JavierSantoyo89&color=blue)
 
 
 <!--
