@@ -29,7 +29,6 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Adobe XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
   
 
 <h3> 👨‍💻 &nbsp;hobby to learn</h3>
